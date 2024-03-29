@@ -33,7 +33,7 @@ none
 
 ## Tests
 
-none
+![Fullstack Blog Video Submission](./video/E-commerceBackEndVideo.gif);
 
 ## Questions
 
