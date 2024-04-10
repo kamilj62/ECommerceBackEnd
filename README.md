@@ -35,7 +35,7 @@ none
 
 ![Fullstack Blog Video Submission](./video/EcommerceBackEndVideo.gif);
 
-"https://drive.google.com/file/d/1DRIt6HVEx8SkJ24ouiHFtA8jNlO0s4MQ/preview"
+https://drive.google.com/file/d/1DRIt6HVEx8SkJ24ouiHFtA8jNlO0s4MQ/preview
 
 ## Questions
 
