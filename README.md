@@ -33,9 +33,9 @@ none
 
 ## Tests
 
-![Fullstack Blog Video Submission](./video/EcommerceBackEndVideo.gif);
+![Fullstack Blog Video Submission](./video/EcommerceBackEnd.gif);
 
-https://drive.google.com/file/d/1DRIt6HVEx8SkJ24ouiHFtA8jNlO0s4MQ/preview
+https://drive.google.com/file/d/1TCGSk0arc5LwpinfW8VmtVdyZuYN_XQH/view
 
 ## Questions
 
